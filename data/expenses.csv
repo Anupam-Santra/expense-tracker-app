@@ -1,0 +1,501 @@
+Date,Category,Subcategory,Amount,Payment_Method,Month,Month_Num,Day_of_Week,Quarter,Overspend_Flag,Notes
+2024-01-01,Travel,Sightseeing,412.46,Debit Card,January,1,Monday,Q1,False,Sightseeing expense
+2024-01-02,Shopping,Home Decor,358.89,Debit Card,January,1,Tuesday,Q1,False,Home Decor expense
+2024-01-02,Education,Certification,1034.65,Cash,January,1,Tuesday,Q1,False,Certification expense
+2024-01-04,Healthcare,Lab Tests,376.93,Debit Card,January,1,Thursday,Q1,False,Lab Tests expense
+2024-01-05,Utilities,Mobile Recharge,480.66,Debit Card,January,1,Friday,Q1,False,Mobile Recharge expense
+2024-01-10,Rent,Monthly Rent,10200.0,Cash,January,1,Wednesday,Q1,False,Monthly Rent expense
+2024-01-11,Shopping,Accessories,532.76,UPI,January,1,Thursday,Q1,True,Accessories expense
+2024-01-11,Healthcare,Doctor Visit,478.03,Debit Card,January,1,Thursday,Q1,False,Doctor Visit expense
+2024-01-13,Transportation,Auto,123.2,Debit Card,January,1,Saturday,Q1,False,Auto expense
+2024-01-14,Shopping,Accessories,394.03,Debit Card,January,1,Sunday,Q1,False,Accessories expense
+2024-01-15,Rent,Monthly Rent,10200.0,Cash,January,1,Monday,Q1,False,Monthly Rent expense
+2024-01-15,Healthcare,Medicine,752.15,Debit Card,January,1,Monday,Q1,True,Medicine expense
+2024-01-17,Food & Dining,Groceries,168.11,UPI,January,1,Wednesday,Q1,False,Groceries expense
+2024-01-17,Healthcare,Medicine,408.72,Credit Card,January,1,Wednesday,Q1,False,Medicine expense
+2024-01-18,Miscellaneous,Repairs,181.35,Debit Card,January,1,Thursday,Q1,False,Repairs expense
+2024-01-19,Entertainment,Gaming,209.6,Credit Card,January,1,Friday,Q1,False,Gaming expense
+2024-01-21,Healthcare,Doctor Visit,199.59,Debit Card,January,1,Sunday,Q1,False,Doctor Visit expense
+2024-01-22,Education,Course Fee,1292.41,Credit Card,January,1,Monday,Q1,False,Course Fee expense
+2024-01-22,Utilities,Gas,474.95,Debit Card,January,1,Monday,Q1,False,Gas expense
+2024-01-23,Utilities,Gas,479.11,UPI,January,1,Tuesday,Q1,False,Gas expense
+2024-01-23,Food & Dining,Swiggy/Zomato,151.91,Debit Card,January,1,Tuesday,Q1,False,Swiggy/Zomato expense
+2024-01-24,Food & Dining,Snacks,132.12,UPI,January,1,Wednesday,Q1,False,Snacks expense
+2024-01-24,Entertainment,Events,157.95,Net Banking,January,1,Wednesday,Q1,False,Events expense
+2024-01-25,Healthcare,Lab Tests,413.32,UPI,January,1,Thursday,Q1,False,Lab Tests expense
+2024-01-25,Entertainment,Events,210.83,Credit Card,January,1,Thursday,Q1,False,Events expense
+2024-01-25,Rent,Monthly Rent,10200.0,Credit Card,January,1,Thursday,Q1,False,Monthly Rent expense
+2024-01-26,Rent,Monthly Rent,10200.0,Credit Card,January,1,Friday,Q1,False,Monthly Rent expense
+2024-01-27,Rent,Monthly Rent,10200.0,Debit Card,January,1,Saturday,Q1,False,Monthly Rent expense
+2024-01-27,Shopping,Accessories,372.01,UPI,January,1,Saturday,Q1,False,Accessories expense
+2024-01-27,Healthcare,Doctor Visit,197.13,Debit Card,January,1,Saturday,Q1,False,Doctor Visit expense
+2024-01-27,Transportation,Fuel,89.39,Debit Card,January,1,Saturday,Q1,False,Fuel expense
+2024-01-29,Food & Dining,Restaurant,100.77,UPI,January,1,Monday,Q1,False,Restaurant expense
+2024-01-29,Rent,Monthly Rent,10200.0,UPI,January,1,Monday,Q1,False,Monthly Rent expense
+2024-01-29,Shopping,Home Decor,10.0,Credit Card,January,1,Monday,Q1,False,Home Decor expense
+2024-01-30,Healthcare,Lab Tests,172.06,UPI,January,1,Tuesday,Q1,False,Lab Tests expense
+2024-01-30,Rent,Monthly Rent,10200.0,Credit Card,January,1,Tuesday,Q1,False,Monthly Rent expense
+2024-02-01,Utilities,Electricity,490.03,Debit Card,February,2,Thursday,Q1,False,Electricity expense
+2024-02-01,Healthcare,Medicine,591.25,UPI,February,2,Thursday,Q1,True,Medicine expense
+2024-02-01,Entertainment,Events,248.04,Credit Card,February,2,Thursday,Q1,False,Events expense
+2024-02-02,Utilities,Mobile Recharge,536.64,Credit Card,February,2,Friday,Q1,False,Mobile Recharge expense
+2024-02-04,Entertainment,Events,177.12,UPI,February,2,Sunday,Q1,False,Events expense
+2024-02-04,Utilities,Water,492.22,Credit Card,February,2,Sunday,Q1,False,Water expense
+2024-02-05,Food & Dining,Restaurant,68.98,Debit Card,February,2,Monday,Q1,False,Restaurant expense
+2024-02-05,Transportation,Uber/Ola,90.97,UPI,February,2,Monday,Q1,False,Uber/Ola expense
+2024-02-05,Travel,Hotel,4393.72,UPI,February,2,Monday,Q1,False,Hotel expense
+2024-02-05,Entertainment,Gaming,127.57,UPI,February,2,Monday,Q1,False,Gaming expense
+2024-02-07,Food & Dining,Cafe,50.14,Credit Card,February,2,Wednesday,Q1,False,Cafe expense
+2024-02-07,Shopping,Footwear,143.0,Credit Card,February,2,Wednesday,Q1,False,Footwear expense
+2024-02-07,Miscellaneous,Gift,45.7,UPI,February,2,Wednesday,Q1,False,Gift expense
+2024-02-07,Utilities,Internet,444.63,Cash,February,2,Wednesday,Q1,False,Internet expense
+2024-02-08,Transportation,Train Ticket,123.78,UPI,February,2,Thursday,Q1,False,Train Ticket expense
+2024-02-08,Transportation,Uber/Ola,123.79,Credit Card,February,2,Thursday,Q1,False,Uber/Ola expense
+2024-02-08,Transportation,Fuel,101.61,Cash,February,2,Thursday,Q1,False,Fuel expense
+2024-02-08,Utilities,Gas,459.39,UPI,February,2,Thursday,Q1,False,Gas expense
+2024-02-09,Healthcare,Supplements,298.25,Credit Card,February,2,Friday,Q1,False,Supplements expense
+2024-02-09,Travel,Flight,2453.98,Credit Card,February,2,Friday,Q1,False,Flight expense
+2024-02-09,Miscellaneous,Charity,90.03,Credit Card,February,2,Friday,Q1,False,Charity expense
+2024-02-10,Healthcare,Lab Tests,122.85,UPI,February,2,Saturday,Q1,False,Lab Tests expense
+2024-02-10,Food & Dining,Swiggy/Zomato,137.21,UPI,February,2,Saturday,Q1,False,Swiggy/Zomato expense
+2024-02-10,Entertainment,OTT Subscription,20.63,Credit Card,February,2,Saturday,Q1,False,OTT Subscription expense
+2024-02-11,Transportation,Fuel,123.83,UPI,February,2,Sunday,Q1,False,Fuel expense
+2024-02-11,Utilities,Electricity,499.54,Debit Card,February,2,Sunday,Q1,False,Electricity expense
+2024-02-12,Education,Books,1037.57,Cash,February,2,Monday,Q1,False,Books expense
+2024-02-12,Education,Course Fee,990.6,Credit Card,February,2,Monday,Q1,False,Course Fee expense
+2024-02-13,Shopping,Accessories,34.42,Credit Card,February,2,Tuesday,Q1,False,Accessories expense
+2024-02-13,Rent,Monthly Rent,9600.0,UPI,February,2,Tuesday,Q1,False,Monthly Rent expense
+2024-02-14,Shopping,Footwear,273.2,UPI,February,2,Wednesday,Q1,False,Footwear expense
+2024-02-14,Rent,Monthly Rent,9600.0,Credit Card,February,2,Wednesday,Q1,False,Monthly Rent expense
+2024-02-16,Shopping,Home Decor,319.46,Debit Card,February,2,Friday,Q1,False,Home Decor expense
+2024-02-16,Miscellaneous,Other,100.06,Credit Card,February,2,Friday,Q1,False,Other expense
+2024-02-16,Entertainment,Books,156.14,Credit Card,February,2,Friday,Q1,False,Books expense
+2024-02-17,Shopping,Electronics,297.9,Credit Card,February,2,Saturday,Q1,False,Electronics expense
+2024-02-17,Entertainment,OTT Subscription,10.0,Credit Card,February,2,Saturday,Q1,False,OTT Subscription expense
+2024-02-19,Healthcare,Lab Tests,428.51,Credit Card,February,2,Monday,Q1,False,Lab Tests expense
+2024-02-20,Entertainment,Movies,79.66,UPI,February,2,Tuesday,Q1,False,Movies expense
+2024-02-21,Utilities,Electricity,621.48,Credit Card,February,2,Wednesday,Q1,False,Electricity expense
+2024-02-21,Travel,Sightseeing,4010.49,Debit Card,February,2,Wednesday,Q1,False,Sightseeing expense
+2024-02-23,Miscellaneous,Other,145.29,UPI,February,2,Friday,Q1,False,Other expense
+2024-02-24,Entertainment,Events,166.81,Credit Card,February,2,Saturday,Q1,False,Events expense
+2024-02-24,Shopping,Accessories,113.07,Credit Card,February,2,Saturday,Q1,False,Accessories expense
+2024-02-24,Education,Certification,886.94,Credit Card,February,2,Saturday,Q1,False,Certification expense
+2024-02-25,Utilities,Gas,525.46,UPI,February,2,Sunday,Q1,False,Gas expense
+2024-02-26,Shopping,Electronics,124.21,UPI,February,2,Monday,Q1,False,Electronics expense
+2024-02-28,Transportation,Auto,132.9,UPI,February,2,Wednesday,Q1,False,Auto expense
+2024-02-28,Food & Dining,Restaurant,117.0,Credit Card,February,2,Wednesday,Q1,False,Restaurant expense
+2024-02-29,Transportation,Uber/Ola,118.57,Cash,February,2,Thursday,Q1,False,Uber/Ola expense
+2024-03-01,Transportation,Bus/Metro,126.22,Cash,March,3,Friday,Q1,False,Bus/Metro expense
+2024-03-01,Travel,Local Travel,5621.57,Credit Card,March,3,Friday,Q1,False,Local Travel expense
+2024-03-02,Food & Dining,Cafe,127.3,Debit Card,March,3,Saturday,Q1,False,Cafe expense
+2024-03-03,Entertainment,Movies,55.11,UPI,March,3,Sunday,Q1,False,Movies expense
+2024-03-04,Shopping,Accessories,565.59,UPI,March,3,Monday,Q1,True,Accessories expense
+2024-03-05,Travel,Sightseeing,6335.72,UPI,March,3,Tuesday,Q1,False,Sightseeing expense
+2024-03-05,Utilities,Electricity,460.58,Credit Card,March,3,Tuesday,Q1,False,Electricity expense
+2024-03-05,Utilities,Electricity,565.69,Cash,March,3,Tuesday,Q1,False,Electricity expense
+2024-03-06,Miscellaneous,Other,232.19,UPI,March,3,Wednesday,Q1,False,Other expense
+2024-03-06,Food & Dining,Swiggy/Zomato,160.83,Credit Card,March,3,Wednesday,Q1,False,Swiggy/Zomato expense
+2024-03-07,Education,Coaching,981.67,Cash,March,3,Thursday,Q1,False,Coaching expense
+2024-03-08,Shopping,Footwear,457.76,UPI,March,3,Friday,Q1,False,Footwear expense
+2024-03-09,Shopping,Clothing,312.85,Cash,March,3,Saturday,Q1,False,Clothing expense
+2024-03-11,Transportation,Uber/Ola,100.02,UPI,March,3,Monday,Q1,False,Uber/Ola expense
+2024-03-13,Rent,Monthly Rent,10800.0,UPI,March,3,Wednesday,Q1,False,Monthly Rent expense
+2024-03-14,Healthcare,Lab Tests,184.88,Debit Card,March,3,Thursday,Q1,False,Lab Tests expense
+2024-03-15,Entertainment,Books,91.92,Credit Card,March,3,Friday,Q1,False,Books expense
+2024-03-15,Transportation,Train Ticket,112.74,UPI,March,3,Friday,Q1,False,Train Ticket expense
+2024-03-15,Education,Books,1006.12,Cash,March,3,Friday,Q1,False,Books expense
+2024-03-16,Rent,Monthly Rent,10800.0,UPI,March,3,Saturday,Q1,False,Monthly Rent expense
+2024-03-16,Education,Course Fee,1357.67,Cash,March,3,Saturday,Q1,False,Course Fee expense
+2024-03-16,Food & Dining,Groceries,150.65,UPI,March,3,Saturday,Q1,False,Groceries expense
+2024-03-17,Travel,Sightseeing,7237.26,Credit Card,March,3,Sunday,Q1,False,Sightseeing expense
+2024-03-19,Transportation,Train Ticket,176.24,Debit Card,March,3,Tuesday,Q1,False,Train Ticket expense
+2024-03-19,Healthcare,Doctor Visit,524.51,Credit Card,March,3,Tuesday,Q1,False,Doctor Visit expense
+2024-03-20,Education,Course Fee,1246.93,Debit Card,March,3,Wednesday,Q1,False,Course Fee expense
+2024-03-21,Rent,Monthly Rent,10800.0,Cash,March,3,Thursday,Q1,False,Monthly Rent expense
+2024-03-21,Transportation,Auto,43.27,Credit Card,March,3,Thursday,Q1,False,Auto expense
+2024-03-22,Education,Certification,1240.12,UPI,March,3,Friday,Q1,False,Certification expense
+2024-03-23,Shopping,Footwear,180.18,Cash,March,3,Saturday,Q1,False,Footwear expense
+2024-03-23,Entertainment,Books,53.69,UPI,March,3,Saturday,Q1,False,Books expense
+2024-03-23,Healthcare,Doctor Visit,400.69,UPI,March,3,Saturday,Q1,False,Doctor Visit expense
+2024-03-24,Transportation,Train Ticket,140.76,Debit Card,March,3,Sunday,Q1,False,Train Ticket expense
+2024-03-25,Utilities,Electricity,468.83,Credit Card,March,3,Monday,Q1,False,Electricity expense
+2024-03-25,Shopping,Footwear,525.96,Net Banking,March,3,Monday,Q1,True,Footwear expense
+2024-03-26,Miscellaneous,Other,82.53,Net Banking,March,3,Tuesday,Q1,False,Other expense
+2024-03-27,Rent,Monthly Rent,10800.0,Credit Card,March,3,Wednesday,Q1,False,Monthly Rent expense
+2024-03-28,Travel,Hotel,5128.49,UPI,March,3,Thursday,Q1,False,Hotel expense
+2024-03-30,Utilities,Gas,415.52,Debit Card,March,3,Saturday,Q1,False,Gas expense
+2024-03-30,Transportation,Bus/Metro,130.76,Credit Card,March,3,Saturday,Q1,False,Bus/Metro expense
+2024-03-30,Shopping,Clothing,367.62,UPI,March,3,Saturday,Q1,False,Clothing expense
+2024-03-30,Rent,Monthly Rent,10800.0,UPI,March,3,Saturday,Q1,False,Monthly Rent expense
+2024-03-30,Entertainment,Movies,287.7,Debit Card,March,3,Saturday,Q1,False,Movies expense
+2024-04-02,Transportation,Train Ticket,109.77,Debit Card,April,4,Tuesday,Q2,False,Train Ticket expense
+2024-04-02,Travel,Tour Package,6660.28,UPI,April,4,Tuesday,Q2,False,Tour Package expense
+2024-04-03,Food & Dining,Swiggy/Zomato,151.74,Credit Card,April,4,Wednesday,Q2,False,Swiggy/Zomato expense
+2024-04-03,Utilities,Internet,666.9,Credit Card,April,4,Wednesday,Q2,False,Internet expense
+2024-04-06,Entertainment,Books,129.13,Credit Card,April,4,Saturday,Q2,False,Books expense
+2024-04-07,Rent,Monthly Rent,11400.0,Debit Card,April,4,Sunday,Q2,False,Monthly Rent expense
+2024-04-07,Shopping,Clothing,276.07,Debit Card,April,4,Sunday,Q2,False,Clothing expense
+2024-04-08,Healthcare,Medicine,210.64,Debit Card,April,4,Monday,Q2,False,Medicine expense
+2024-04-09,Shopping,Electronics,310.69,Credit Card,April,4,Tuesday,Q2,False,Electronics expense
+2024-04-09,Healthcare,Lab Tests,384.9,Debit Card,April,4,Tuesday,Q2,False,Lab Tests expense
+2024-04-12,Food & Dining,Snacks,155.14,UPI,April,4,Friday,Q2,False,Snacks expense
+2024-04-12,Food & Dining,Swiggy/Zomato,140.12,Cash,April,4,Friday,Q2,False,Swiggy/Zomato expense
+2024-04-14,Healthcare,Doctor Visit,372.83,UPI,April,4,Sunday,Q2,False,Doctor Visit expense
+2024-04-17,Education,Coaching,1358.92,Credit Card,April,4,Wednesday,Q2,False,Coaching expense
+2024-04-17,Healthcare,Doctor Visit,276.35,Debit Card,April,4,Wednesday,Q2,False,Doctor Visit expense
+2024-04-17,Shopping,Clothing,163.46,Credit Card,April,4,Wednesday,Q2,False,Clothing expense
+2024-04-18,Transportation,Auto,126.05,UPI,April,4,Thursday,Q2,False,Auto expense
+2024-04-18,Utilities,Mobile Recharge,524.67,UPI,April,4,Thursday,Q2,False,Mobile Recharge expense
+2024-04-19,Education,Course Fee,1115.62,UPI,April,4,Friday,Q2,False,Course Fee expense
+2024-04-19,Travel,Local Travel,6332.06,Debit Card,April,4,Friday,Q2,False,Local Travel expense
+2024-04-20,Healthcare,Medicine,286.11,UPI,April,4,Saturday,Q2,False,Medicine expense
+2024-04-21,Food & Dining,Snacks,164.17,Debit Card,April,4,Sunday,Q2,False,Snacks expense
+2024-04-21,Utilities,Mobile Recharge,613.77,Debit Card,April,4,Sunday,Q2,False,Mobile Recharge expense
+2024-04-22,Transportation,Train Ticket,130.36,Credit Card,April,4,Monday,Q2,False,Train Ticket expense
+2024-04-22,Transportation,Train Ticket,109.88,Credit Card,April,4,Monday,Q2,False,Train Ticket expense
+2024-04-22,Entertainment,Books,133.11,UPI,April,4,Monday,Q2,False,Books expense
+2024-04-22,Utilities,Internet,622.12,UPI,April,4,Monday,Q2,False,Internet expense
+2024-04-23,Utilities,Mobile Recharge,577.71,Cash,April,4,Tuesday,Q2,False,Mobile Recharge expense
+2024-04-26,Entertainment,OTT Subscription,146.58,Debit Card,April,4,Friday,Q2,False,OTT Subscription expense
+2024-04-26,Education,Certification,1361.22,Debit Card,April,4,Friday,Q2,False,Certification expense
+2024-04-27,Travel,Sightseeing,3095.54,Debit Card,April,4,Saturday,Q2,False,Sightseeing expense
+2024-04-28,Shopping,Home Decor,747.33,Debit Card,April,4,Sunday,Q2,True,Home Decor expense
+2024-04-29,Healthcare,Doctor Visit,489.42,Debit Card,April,4,Monday,Q2,False,Doctor Visit expense
+2024-04-30,Shopping,Electronics,377.96,Debit Card,April,4,Tuesday,Q2,False,Electronics expense
+2024-04-30,Healthcare,Medicine,267.96,Net Banking,April,4,Tuesday,Q2,False,Medicine expense
+2024-04-30,Healthcare,Lab Tests,140.42,Credit Card,April,4,Tuesday,Q2,False,Lab Tests expense
+2024-04-30,Shopping,Electronics,116.78,Debit Card,April,4,Tuesday,Q2,False,Electronics expense
+2024-04-30,Education,Course Fee,1197.63,Credit Card,April,4,Tuesday,Q2,False,Course Fee expense
+2024-05-01,Transportation,Bus/Metro,165.85,Credit Card,May,5,Wednesday,Q2,False,Bus/Metro expense
+2024-05-01,Transportation,Fuel,84.55,Cash,May,5,Wednesday,Q2,False,Fuel expense
+2024-05-02,Shopping,Footwear,206.01,UPI,May,5,Thursday,Q2,False,Footwear expense
+2024-05-03,Miscellaneous,Personal Care,173.06,UPI,May,5,Friday,Q2,False,Personal Care expense
+2024-05-04,Shopping,Accessories,273.18,Credit Card,May,5,Saturday,Q2,False,Accessories expense
+2024-05-04,Transportation,Train Ticket,175.92,UPI,May,5,Saturday,Q2,False,Train Ticket expense
+2024-05-05,Entertainment,Movies,177.13,Debit Card,May,5,Sunday,Q2,False,Movies expense
+2024-05-06,Travel,Sightseeing,2150.5,UPI,May,5,Monday,Q2,False,Sightseeing expense
+2024-05-08,Food & Dining,Cafe,184.07,Cash,May,5,Wednesday,Q2,False,Cafe expense
+2024-05-09,Food & Dining,Swiggy/Zomato,113.2,Debit Card,May,5,Thursday,Q2,False,Swiggy/Zomato expense
+2024-05-11,Entertainment,Movies,296.34,Credit Card,May,5,Saturday,Q2,False,Movies expense
+2024-05-12,Healthcare,Lab Tests,347.07,Cash,May,5,Sunday,Q2,False,Lab Tests expense
+2024-05-13,Utilities,Internet,640.94,Net Banking,May,5,Monday,Q2,False,Internet expense
+2024-05-13,Transportation,Train Ticket,146.8,Net Banking,May,5,Monday,Q2,False,Train Ticket expense
+2024-05-14,Travel,Hotel,4973.01,Credit Card,May,5,Tuesday,Q2,False,Hotel expense
+2024-05-15,Healthcare,Supplements,303.15,Debit Card,May,5,Wednesday,Q2,False,Supplements expense
+2024-05-15,Travel,Local Travel,3383.01,UPI,May,5,Wednesday,Q2,False,Local Travel expense
+2024-05-15,Food & Dining,Groceries,200.3,Credit Card,May,5,Wednesday,Q2,False,Groceries expense
+2024-05-18,Shopping,Home Decor,291.26,UPI,May,5,Saturday,Q2,False,Home Decor expense
+2024-05-19,Entertainment,Books,298.15,UPI,May,5,Sunday,Q2,False,Books expense
+2024-05-20,Miscellaneous,Gift,418.98,Credit Card,May,5,Monday,Q2,True,Gift expense
+2024-05-21,Entertainment,OTT Subscription,233.28,Cash,May,5,Tuesday,Q2,False,OTT Subscription expense
+2024-05-22,Miscellaneous,Charity,241.29,Debit Card,May,5,Wednesday,Q2,False,Charity expense
+2024-05-22,Healthcare,Supplements,239.54,Credit Card,May,5,Wednesday,Q2,False,Supplements expense
+2024-05-22,Utilities,Internet,544.05,Cash,May,5,Wednesday,Q2,False,Internet expense
+2024-05-22,Utilities,Internet,482.46,Credit Card,May,5,Wednesday,Q2,False,Internet expense
+2024-05-22,Transportation,Train Ticket,156.21,Credit Card,May,5,Wednesday,Q2,False,Train Ticket expense
+2024-05-24,Education,Stationery,1163.46,Debit Card,May,5,Friday,Q2,False,Stationery expense
+2024-05-26,Entertainment,Gaming,163.35,UPI,May,5,Sunday,Q2,False,Gaming expense
+2024-05-26,Entertainment,Books,202.43,Debit Card,May,5,Sunday,Q2,False,Books expense
+2024-05-26,Utilities,Internet,650.5,UPI,May,5,Sunday,Q2,False,Internet expense
+2024-05-26,Utilities,Internet,583.4,Debit Card,May,5,Sunday,Q2,False,Internet expense
+2024-05-29,Travel,Tour Package,3676.43,Credit Card,May,5,Wednesday,Q2,False,Tour Package expense
+2024-05-29,Education,Course Fee,944.12,Credit Card,May,5,Wednesday,Q2,False,Course Fee expense
+2024-05-31,Healthcare,Medicine,10.0,Credit Card,May,5,Friday,Q2,False,Medicine expense
+2024-05-31,Food & Dining,Cafe,123.83,UPI,May,5,Friday,Q2,False,Cafe expense
+2024-06-03,Utilities,Internet,671.54,Debit Card,June,6,Monday,Q2,False,Internet expense
+2024-06-03,Miscellaneous,Gift,231.28,Debit Card,June,6,Monday,Q2,False,Gift expense
+2024-06-03,Food & Dining,Snacks,109.28,UPI,June,6,Monday,Q2,False,Snacks expense
+2024-06-04,Miscellaneous,Other,125.34,UPI,June,6,Tuesday,Q2,False,Other expense
+2024-06-04,Utilities,Electricity,523.81,UPI,June,6,Tuesday,Q2,False,Electricity expense
+2024-06-05,Miscellaneous,Other,52.23,UPI,June,6,Wednesday,Q2,False,Other expense
+2024-06-06,Entertainment,OTT Subscription,31.15,UPI,June,6,Thursday,Q2,False,OTT Subscription expense
+2024-06-06,Miscellaneous,Other,158.47,Cash,June,6,Thursday,Q2,False,Other expense
+2024-06-08,Travel,Flight,6017.84,Credit Card,June,6,Saturday,Q2,False,Flight expense
+2024-06-09,Shopping,Home Decor,359.89,Net Banking,June,6,Sunday,Q2,False,Home Decor expense
+2024-06-10,Shopping,Home Decor,155.67,UPI,June,6,Monday,Q2,False,Home Decor expense
+2024-06-10,Education,Certification,1407.35,UPI,June,6,Monday,Q2,False,Certification expense
+2024-06-13,Utilities,Water,620.13,Credit Card,June,6,Thursday,Q2,False,Water expense
+2024-06-13,Miscellaneous,Personal Care,114.09,Credit Card,June,6,Thursday,Q2,False,Personal Care expense
+2024-06-15,Food & Dining,Restaurant,104.84,Debit Card,June,6,Saturday,Q2,False,Restaurant expense
+2024-06-15,Miscellaneous,Other,49.25,UPI,June,6,Saturday,Q2,False,Other expense
+2024-06-17,Education,Stationery,1350.84,UPI,June,6,Monday,Q2,False,Stationery expense
+2024-06-17,Transportation,Train Ticket,171.8,UPI,June,6,Monday,Q2,False,Train Ticket expense
+2024-06-19,Transportation,Uber/Ola,124.82,Credit Card,June,6,Wednesday,Q2,False,Uber/Ola expense
+2024-06-19,Healthcare,Medicine,285.61,Cash,June,6,Wednesday,Q2,False,Medicine expense
+2024-06-21,Food & Dining,Cafe,142.85,Cash,June,6,Friday,Q2,False,Cafe expense
+2024-06-22,Rent,Monthly Rent,11400.0,UPI,June,6,Saturday,Q2,False,Monthly Rent expense
+2024-06-22,Entertainment,Gaming,185.45,Debit Card,June,6,Saturday,Q2,False,Gaming expense
+2024-06-22,Food & Dining,Snacks,123.3,Credit Card,June,6,Saturday,Q2,False,Snacks expense
+2024-06-22,Transportation,Bus/Metro,139.47,Net Banking,June,6,Saturday,Q2,False,Bus/Metro expense
+2024-06-23,Utilities,Internet,463.7,UPI,June,6,Sunday,Q2,False,Internet expense
+2024-06-23,Transportation,Uber/Ola,131.79,UPI,June,6,Sunday,Q2,False,Uber/Ola expense
+2024-06-23,Food & Dining,Cafe,135.96,Debit Card,June,6,Sunday,Q2,False,Cafe expense
+2024-06-23,Transportation,Auto,78.4,UPI,June,6,Sunday,Q2,False,Auto expense
+2024-06-24,Rent,Monthly Rent,11400.0,UPI,June,6,Monday,Q2,False,Monthly Rent expense
+2024-06-25,Entertainment,OTT Subscription,50.37,Debit Card,June,6,Tuesday,Q2,False,OTT Subscription expense
+2024-06-25,Education,Books,980.08,Debit Card,June,6,Tuesday,Q2,False,Books expense
+2024-06-25,Healthcare,Gym,414.92,Credit Card,June,6,Tuesday,Q2,False,Gym expense
+2024-06-28,Utilities,Electricity,534.65,Debit Card,June,6,Friday,Q2,False,Electricity expense
+2024-06-28,Travel,Tour Package,4107.23,UPI,June,6,Friday,Q2,False,Tour Package expense
+2024-06-29,Miscellaneous,Personal Care,110.71,UPI,June,6,Saturday,Q2,False,Personal Care expense
+2024-06-30,Rent,Monthly Rent,11400.0,Cash,June,6,Sunday,Q2,False,Monthly Rent expense
+2024-07-02,Entertainment,Books,230.66,UPI,July,7,Tuesday,Q3,False,Books expense
+2024-07-02,Miscellaneous,Repairs,181.02,Net Banking,July,7,Tuesday,Q3,False,Repairs expense
+2024-07-04,Shopping,Electronics,418.54,Net Banking,July,7,Thursday,Q3,False,Electronics expense
+2024-07-06,Travel,Sightseeing,2024.37,Cash,July,7,Saturday,Q3,False,Sightseeing expense
+2024-07-07,Travel,Tour Package,5994.59,UPI,July,7,Sunday,Q3,False,Tour Package expense
+2024-07-07,Education,Stationery,984.02,Debit Card,July,7,Sunday,Q3,False,Stationery expense
+2024-07-07,Utilities,Gas,649.66,UPI,July,7,Sunday,Q3,False,Gas expense
+2024-07-08,Entertainment,Events,106.58,Credit Card,July,7,Monday,Q3,False,Events expense
+2024-07-08,Miscellaneous,Other,189.71,UPI,July,7,Monday,Q3,False,Other expense
+2024-07-09,Transportation,Train Ticket,90.09,UPI,July,7,Tuesday,Q3,False,Train Ticket expense
+2024-07-11,Education,Books,1001.9,UPI,July,7,Thursday,Q3,False,Books expense
+2024-07-12,Rent,Monthly Rent,10800.0,Debit Card,July,7,Friday,Q3,False,Monthly Rent expense
+2024-07-13,Shopping,Accessories,161.04,UPI,July,7,Saturday,Q3,False,Accessories expense
+2024-07-13,Shopping,Footwear,297.87,UPI,July,7,Saturday,Q3,False,Footwear expense
+2024-07-13,Transportation,Train Ticket,118.84,Credit Card,July,7,Saturday,Q3,False,Train Ticket expense
+2024-07-14,Miscellaneous,Personal Care,119.94,Credit Card,July,7,Sunday,Q3,False,Personal Care expense
+2024-07-14,Miscellaneous,Other,389.24,UPI,July,7,Sunday,Q3,True,Other expense
+2024-07-14,Travel,Sightseeing,2250.72,Credit Card,July,7,Sunday,Q3,False,Sightseeing expense
+2024-07-15,Utilities,Water,502.25,UPI,July,7,Monday,Q3,False,Water expense
+2024-07-15,Transportation,Fuel,78.97,UPI,July,7,Monday,Q3,False,Fuel expense
+2024-07-16,Healthcare,Doctor Visit,257.23,Credit Card,July,7,Tuesday,Q3,False,Doctor Visit expense
+2024-07-17,Travel,Flight,4058.06,UPI,July,7,Wednesday,Q3,False,Flight expense
+2024-07-20,Miscellaneous,Other,209.7,Debit Card,July,7,Saturday,Q3,False,Other expense
+2024-07-21,Utilities,Internet,544.5,UPI,July,7,Sunday,Q3,False,Internet expense
+2024-07-21,Food & Dining,Swiggy/Zomato,142.49,Credit Card,July,7,Sunday,Q3,False,Swiggy/Zomato expense
+2024-07-22,Healthcare,Lab Tests,402.8,UPI,July,7,Monday,Q3,False,Lab Tests expense
+2024-07-23,Education,Course Fee,1243.75,UPI,July,7,Tuesday,Q3,False,Course Fee expense
+2024-07-23,Healthcare,Lab Tests,291.46,Cash,July,7,Tuesday,Q3,False,Lab Tests expense
+2024-07-24,Education,Course Fee,1105.48,Credit Card,July,7,Wednesday,Q3,False,Course Fee expense
+2024-07-24,Travel,Flight,4628.56,Credit Card,July,7,Wednesday,Q3,False,Flight expense
+2024-07-25,Travel,Flight,3069.39,Debit Card,July,7,Thursday,Q3,False,Flight expense
+2024-07-26,Education,Certification,1185.26,UPI,July,7,Friday,Q3,False,Certification expense
+2024-07-26,Travel,Flight,2162.64,UPI,July,7,Friday,Q3,False,Flight expense
+2024-07-27,Healthcare,Supplements,405.49,Credit Card,July,7,Saturday,Q3,False,Supplements expense
+2024-07-27,Miscellaneous,Charity,140.79,Cash,July,7,Saturday,Q3,False,Charity expense
+2024-07-28,Healthcare,Gym,321.53,Debit Card,July,7,Sunday,Q3,False,Gym expense
+2024-07-29,Healthcare,Gym,224.57,Cash,July,7,Monday,Q3,False,Gym expense
+2024-07-29,Food & Dining,Swiggy/Zomato,182.08,Debit Card,July,7,Monday,Q3,False,Swiggy/Zomato expense
+2024-07-29,Entertainment,Gaming,188.33,UPI,July,7,Monday,Q3,False,Gaming expense
+2024-07-31,Healthcare,Supplements,461.0,UPI,July,7,Wednesday,Q3,False,Supplements expense
+2024-07-31,Food & Dining,Cafe,166.45,Credit Card,July,7,Wednesday,Q3,False,Cafe expense
+2024-08-01,Miscellaneous,Gift,197.74,Credit Card,August,8,Thursday,Q3,False,Gift expense
+2024-08-02,Travel,Sightseeing,5269.77,Debit Card,August,8,Friday,Q3,False,Sightseeing expense
+2024-08-03,Travel,Flight,7360.96,Debit Card,August,8,Saturday,Q3,False,Flight expense
+2024-08-05,Utilities,Gas,590.73,Credit Card,August,8,Monday,Q3,False,Gas expense
+2024-08-08,Rent,Monthly Rent,11400.0,Debit Card,August,8,Thursday,Q3,False,Monthly Rent expense
+2024-08-09,Healthcare,Supplements,282.93,UPI,August,8,Friday,Q3,False,Supplements expense
+2024-08-10,Transportation,Bus/Metro,188.41,UPI,August,8,Saturday,Q3,False,Bus/Metro expense
+2024-08-10,Rent,Monthly Rent,11400.0,Credit Card,August,8,Saturday,Q3,False,Monthly Rent expense
+2024-08-12,Travel,Tour Package,4933.52,Credit Card,August,8,Monday,Q3,False,Tour Package expense
+2024-08-12,Rent,Monthly Rent,11400.0,Debit Card,August,8,Monday,Q3,False,Monthly Rent expense
+2024-08-14,Miscellaneous,Other,83.77,Credit Card,August,8,Wednesday,Q3,False,Other expense
+2024-08-14,Shopping,Accessories,411.46,Net Banking,August,8,Wednesday,Q3,False,Accessories expense
+2024-08-15,Rent,Monthly Rent,11400.0,Debit Card,August,8,Thursday,Q3,False,Monthly Rent expense
+2024-08-15,Rent,Monthly Rent,11400.0,UPI,August,8,Thursday,Q3,False,Monthly Rent expense
+2024-08-17,Entertainment,Books,187.15,UPI,August,8,Saturday,Q3,False,Books expense
+2024-08-18,Healthcare,Lab Tests,387.05,Credit Card,August,8,Sunday,Q3,False,Lab Tests expense
+2024-08-19,Rent,Monthly Rent,11400.0,UPI,August,8,Monday,Q3,False,Monthly Rent expense
+2024-08-20,Healthcare,Lab Tests,255.46,Credit Card,August,8,Tuesday,Q3,False,Lab Tests expense
+2024-08-20,Shopping,Footwear,152.24,Debit Card,August,8,Tuesday,Q3,False,Footwear expense
+2024-08-20,Healthcare,Doctor Visit,267.54,Credit Card,August,8,Tuesday,Q3,False,Doctor Visit expense
+2024-08-20,Rent,Monthly Rent,11400.0,Cash,August,8,Tuesday,Q3,False,Monthly Rent expense
+2024-08-20,Rent,Monthly Rent,11400.0,Credit Card,August,8,Tuesday,Q3,False,Monthly Rent expense
+2024-08-21,Shopping,Electronics,112.7,Net Banking,August,8,Wednesday,Q3,False,Electronics expense
+2024-08-21,Food & Dining,Restaurant,170.03,Credit Card,August,8,Wednesday,Q3,False,Restaurant expense
+2024-08-22,Food & Dining,Swiggy/Zomato,87.37,UPI,August,8,Thursday,Q3,False,Swiggy/Zomato expense
+2024-08-23,Healthcare,Lab Tests,96.93,Debit Card,August,8,Friday,Q3,False,Lab Tests expense
+2024-08-23,Transportation,Bus/Metro,97.02,UPI,August,8,Friday,Q3,False,Bus/Metro expense
+2024-08-24,Miscellaneous,Other,10.0,Net Banking,August,8,Saturday,Q3,False,Other expense
+2024-08-25,Travel,Sightseeing,4887.13,Credit Card,August,8,Sunday,Q3,False,Sightseeing expense
+2024-08-25,Miscellaneous,Other,272.72,Debit Card,August,8,Sunday,Q3,False,Other expense
+2024-08-27,Food & Dining,Groceries,158.81,UPI,August,8,Tuesday,Q3,False,Groceries expense
+2024-08-28,Entertainment,Gaming,216.71,Debit Card,August,8,Wednesday,Q3,False,Gaming expense
+2024-08-28,Entertainment,Movies,160.53,Debit Card,August,8,Wednesday,Q3,False,Movies expense
+2024-08-28,Food & Dining,Cafe,185.93,Net Banking,August,8,Wednesday,Q3,False,Cafe expense
+2024-08-28,Utilities,Gas,634.77,UPI,August,8,Wednesday,Q3,False,Gas expense
+2024-08-29,Food & Dining,Snacks,129.35,Cash,August,8,Thursday,Q3,False,Snacks expense
+2024-08-30,Education,Books,1129.74,UPI,August,8,Friday,Q3,False,Books expense
+2024-08-31,Travel,Hotel,6226.93,UPI,August,8,Saturday,Q3,False,Hotel expense
+2024-08-31,Utilities,Mobile Recharge,571.4,Credit Card,August,8,Saturday,Q3,False,Mobile Recharge expense
+2024-08-31,Utilities,Mobile Recharge,508.71,Debit Card,August,8,Saturday,Q3,False,Mobile Recharge expense
+2024-08-31,Miscellaneous,Gift,409.05,Credit Card,August,8,Saturday,Q3,True,Gift expense
+2024-09-01,Travel,Sightseeing,4855.98,UPI,September,9,Sunday,Q3,False,Sightseeing expense
+2024-09-01,Rent,Monthly Rent,12000.0,Credit Card,September,9,Sunday,Q3,False,Monthly Rent expense
+2024-09-02,Transportation,Fuel,132.24,UPI,September,9,Monday,Q3,False,Fuel expense
+2024-09-02,Travel,Local Travel,6153.11,Debit Card,September,9,Monday,Q3,False,Local Travel expense
+2024-09-04,Rent,Monthly Rent,12000.0,Credit Card,September,9,Wednesday,Q3,False,Monthly Rent expense
+2024-09-04,Healthcare,Lab Tests,333.1,Credit Card,September,9,Wednesday,Q3,False,Lab Tests expense
+2024-09-04,Utilities,Internet,587.31,UPI,September,9,Wednesday,Q3,False,Internet expense
+2024-09-04,Shopping,Accessories,246.42,Net Banking,September,9,Wednesday,Q3,False,Accessories expense
+2024-09-04,Utilities,Internet,656.83,Credit Card,September,9,Wednesday,Q3,False,Internet expense
+2024-09-05,Food & Dining,Cafe,117.01,UPI,September,9,Thursday,Q3,False,Cafe expense
+2024-09-06,Travel,Flight,5887.64,Credit Card,September,9,Friday,Q3,False,Flight expense
+2024-09-07,Travel,Hotel,3285.68,Debit Card,September,9,Saturday,Q3,False,Hotel expense
+2024-09-08,Rent,Monthly Rent,12000.0,UPI,September,9,Sunday,Q3,False,Monthly Rent expense
+2024-09-09,Food & Dining,Swiggy/Zomato,186.45,Credit Card,September,9,Monday,Q3,False,Swiggy/Zomato expense
+2024-09-09,Utilities,Electricity,584.21,Credit Card,September,9,Monday,Q3,False,Electricity expense
+2024-09-11,Healthcare,Supplements,188.16,UPI,September,9,Wednesday,Q3,False,Supplements expense
+2024-09-11,Miscellaneous,Charity,363.24,UPI,September,9,Wednesday,Q3,True,Charity expense
+2024-09-12,Miscellaneous,Other,24.13,UPI,September,9,Thursday,Q3,False,Other expense
+2024-09-15,Miscellaneous,Gift,176.58,Credit Card,September,9,Sunday,Q3,False,Gift expense
+2024-09-15,Miscellaneous,Personal Care,99.4,UPI,September,9,Sunday,Q3,False,Personal Care expense
+2024-09-16,Travel,Flight,5148.19,Credit Card,September,9,Monday,Q3,False,Flight expense
+2024-09-16,Shopping,Electronics,310.45,Cash,September,9,Monday,Q3,False,Electronics expense
+2024-09-17,Rent,Monthly Rent,12000.0,UPI,September,9,Tuesday,Q3,False,Monthly Rent expense
+2024-09-17,Transportation,Uber/Ola,129.51,UPI,September,9,Tuesday,Q3,False,Uber/Ola expense
+2024-09-18,Rent,Monthly Rent,12000.0,Cash,September,9,Wednesday,Q3,False,Monthly Rent expense
+2024-09-20,Miscellaneous,Charity,81.67,Debit Card,September,9,Friday,Q3,False,Charity expense
+2024-09-20,Education,Coaching,1054.33,Credit Card,September,9,Friday,Q3,False,Coaching expense
+2024-09-21,Healthcare,Doctor Visit,623.91,Cash,September,9,Saturday,Q3,False,Doctor Visit expense
+2024-09-22,Shopping,Clothing,209.24,UPI,September,9,Sunday,Q3,False,Clothing expense
+2024-09-22,Healthcare,Supplements,253.93,Debit Card,September,9,Sunday,Q3,False,Supplements expense
+2024-09-24,Shopping,Accessories,202.1,Debit Card,September,9,Tuesday,Q3,False,Accessories expense
+2024-09-25,Miscellaneous,Repairs,285.64,Net Banking,September,9,Wednesday,Q3,False,Repairs expense
+2024-09-25,Rent,Monthly Rent,12000.0,Cash,September,9,Wednesday,Q3,False,Monthly Rent expense
+2024-09-26,Travel,Sightseeing,8004.71,Debit Card,September,9,Thursday,Q3,False,Sightseeing expense
+2024-09-26,Food & Dining,Swiggy/Zomato,151.25,Cash,September,9,Thursday,Q3,False,Swiggy/Zomato expense
+2024-09-28,Entertainment,Events,204.9,Credit Card,September,9,Saturday,Q3,False,Events expense
+2024-09-28,Food & Dining,Snacks,117.44,UPI,September,9,Saturday,Q3,False,Snacks expense
+2024-09-30,Education,Certification,1143.85,Credit Card,September,9,Monday,Q3,False,Certification expense
+2024-10-01,Healthcare,Medicine,427.74,UPI,October,10,Tuesday,Q4,False,Medicine expense
+2024-10-01,Utilities,Internet,752.09,Credit Card,October,10,Tuesday,Q4,False,Internet expense
+2024-10-01,Shopping,Home Decor,272.8,UPI,October,10,Tuesday,Q4,False,Home Decor expense
+2024-10-02,Utilities,Water,684.86,Credit Card,October,10,Wednesday,Q4,False,Water expense
+2024-10-02,Transportation,Bus/Metro,183.32,Credit Card,October,10,Wednesday,Q4,False,Bus/Metro expense
+2024-10-03,Rent,Monthly Rent,13800.0,UPI,October,10,Thursday,Q4,False,Monthly Rent expense
+2024-10-04,Utilities,Water,735.31,UPI,October,10,Friday,Q4,False,Water expense
+2024-10-05,Entertainment,Movies,287.18,Cash,October,10,Saturday,Q4,False,Movies expense
+2024-10-05,Education,Stationery,1366.26,Cash,October,10,Saturday,Q4,False,Stationery expense
+2024-10-07,Utilities,Internet,721.57,Debit Card,October,10,Monday,Q4,False,Internet expense
+2024-10-08,Transportation,Auto,154.85,Credit Card,October,10,Tuesday,Q4,False,Auto expense
+2024-10-08,Healthcare,Lab Tests,554.65,Debit Card,October,10,Tuesday,Q4,False,Lab Tests expense
+2024-10-09,Education,Coaching,1358.04,UPI,October,10,Wednesday,Q4,False,Coaching expense
+2024-10-09,Miscellaneous,Charity,217.21,Debit Card,October,10,Wednesday,Q4,False,Charity expense
+2024-10-10,Transportation,Fuel,163.38,Credit Card,October,10,Thursday,Q4,False,Fuel expense
+2024-10-10,Transportation,Auto,202.6,UPI,October,10,Thursday,Q4,False,Auto expense
+2024-10-10,Entertainment,Books,171.26,UPI,October,10,Thursday,Q4,False,Books expense
+2024-10-10,Shopping,Clothing,318.64,Cash,October,10,Thursday,Q4,False,Clothing expense
+2024-10-10,Travel,Tour Package,7178.0,Credit Card,October,10,Thursday,Q4,False,Tour Package expense
+2024-10-10,Rent,Monthly Rent,13800.0,UPI,October,10,Thursday,Q4,False,Monthly Rent expense
+2024-10-10,Food & Dining,Groceries,164.72,Debit Card,October,10,Thursday,Q4,False,Groceries expense
+2024-10-11,Utilities,Internet,610.25,UPI,October,10,Friday,Q4,False,Internet expense
+2024-10-12,Education,Certification,1239.47,UPI,October,10,Saturday,Q4,False,Certification expense
+2024-10-12,Food & Dining,Snacks,150.57,Cash,October,10,Saturday,Q4,False,Snacks expense
+2024-10-12,Entertainment,OTT Subscription,99.33,Credit Card,October,10,Saturday,Q4,False,OTT Subscription expense
+2024-10-14,Healthcare,Supplements,342.13,UPI,October,10,Monday,Q4,False,Supplements expense
+2024-10-14,Miscellaneous,Other,173.63,Debit Card,October,10,Monday,Q4,False,Other expense
+2024-10-14,Travel,Tour Package,5901.61,Debit Card,October,10,Monday,Q4,False,Tour Package expense
+2024-10-15,Rent,Monthly Rent,13800.0,Credit Card,October,10,Tuesday,Q4,False,Monthly Rent expense
+2024-10-15,Shopping,Clothing,387.93,Net Banking,October,10,Tuesday,Q4,False,Clothing expense
+2024-10-16,Food & Dining,Swiggy/Zomato,194.42,Credit Card,October,10,Wednesday,Q4,False,Swiggy/Zomato expense
+2024-10-16,Travel,Tour Package,8826.07,Cash,October,10,Wednesday,Q4,False,Tour Package expense
+2024-10-16,Food & Dining,Snacks,184.82,Debit Card,October,10,Wednesday,Q4,False,Snacks expense
+2024-10-17,Food & Dining,Snacks,224.89,UPI,October,10,Thursday,Q4,False,Snacks expense
+2024-10-17,Rent,Monthly Rent,13800.0,Debit Card,October,10,Thursday,Q4,False,Monthly Rent expense
+2024-10-17,Healthcare,Doctor Visit,414.84,Debit Card,October,10,Thursday,Q4,False,Doctor Visit expense
+2024-10-18,Entertainment,Books,167.24,Credit Card,October,10,Friday,Q4,False,Books expense
+2024-10-19,Utilities,Water,737.44,Debit Card,October,10,Saturday,Q4,False,Water expense
+2024-10-19,Miscellaneous,Personal Care,262.41,UPI,October,10,Saturday,Q4,False,Personal Care expense
+2024-10-20,Shopping,Footwear,238.94,Credit Card,October,10,Sunday,Q4,False,Footwear expense
+2024-10-21,Rent,Monthly Rent,13800.0,Net Banking,October,10,Monday,Q4,False,Monthly Rent expense
+2024-10-22,Shopping,Electronics,522.59,Debit Card,October,10,Tuesday,Q4,False,Electronics expense
+2024-10-23,Utilities,Internet,609.98,Credit Card,October,10,Wednesday,Q4,False,Internet expense
+2024-10-23,Utilities,Gas,638.84,Credit Card,October,10,Wednesday,Q4,False,Gas expense
+2024-10-25,Transportation,Auto,192.65,UPI,October,10,Friday,Q4,False,Auto expense
+2024-10-26,Food & Dining,Snacks,129.63,Credit Card,October,10,Saturday,Q4,False,Snacks expense
+2024-10-26,Education,Coaching,1355.84,Credit Card,October,10,Saturday,Q4,False,Coaching expense
+2024-10-27,Shopping,Footwear,517.95,Debit Card,October,10,Sunday,Q4,False,Footwear expense
+2024-10-28,Entertainment,OTT Subscription,181.08,UPI,October,10,Monday,Q4,False,OTT Subscription expense
+2024-10-28,Shopping,Clothing,534.51,Debit Card,October,10,Monday,Q4,False,Clothing expense
+2024-10-30,Utilities,Gas,679.34,Debit Card,October,10,Wednesday,Q4,False,Gas expense
+2024-10-30,Shopping,Home Decor,385.94,Cash,October,10,Wednesday,Q4,False,Home Decor expense
+2024-11-01,Food & Dining,Groceries,183.13,Debit Card,November,11,Friday,Q4,False,Groceries expense
+2024-11-01,Food & Dining,Swiggy/Zomato,174.61,Cash,November,11,Friday,Q4,False,Swiggy/Zomato expense
+2024-11-04,Education,Books,1575.61,Debit Card,November,11,Monday,Q4,False,Books expense
+2024-11-05,Healthcare,Supplements,656.33,UPI,November,11,Tuesday,Q4,False,Supplements expense
+2024-11-06,Education,Books,1525.71,Cash,November,11,Wednesday,Q4,False,Books expense
+2024-11-07,Utilities,Electricity,683.09,UPI,November,11,Thursday,Q4,False,Electricity expense
+2024-11-08,Transportation,Auto,191.68,Credit Card,November,11,Friday,Q4,False,Auto expense
+2024-11-08,Education,Coaching,1312.83,Debit Card,November,11,Friday,Q4,False,Coaching expense
+2024-11-10,Food & Dining,Snacks,171.73,UPI,November,11,Sunday,Q4,False,Snacks expense
+2024-11-11,Education,Certification,1594.44,UPI,November,11,Monday,Q4,False,Certification expense
+2024-11-12,Transportation,Train Ticket,145.0,Credit Card,November,11,Tuesday,Q4,False,Train Ticket expense
+2024-11-12,Entertainment,Books,306.23,Credit Card,November,11,Tuesday,Q4,False,Books expense
+2024-11-12,Healthcare,Supplements,528.39,UPI,November,11,Tuesday,Q4,False,Supplements expense
+2024-11-12,Utilities,Mobile Recharge,693.25,UPI,November,11,Tuesday,Q4,False,Mobile Recharge expense
+2024-11-13,Rent,Monthly Rent,14400.0,Debit Card,November,11,Wednesday,Q4,False,Monthly Rent expense
+2024-11-14,Utilities,Electricity,790.56,UPI,November,11,Thursday,Q4,False,Electricity expense
+2024-11-15,Healthcare,Lab Tests,654.46,UPI,November,11,Friday,Q4,False,Lab Tests expense
+2024-11-16,Miscellaneous,Charity,353.56,Credit Card,November,11,Saturday,Q4,False,Charity expense
+2024-11-16,Utilities,Electricity,734.43,UPI,November,11,Saturday,Q4,False,Electricity expense
+2024-11-17,Utilities,Water,863.55,Debit Card,November,11,Sunday,Q4,False,Water expense
+2024-11-17,Travel,Tour Package,4277.43,Credit Card,November,11,Sunday,Q4,False,Tour Package expense
+2024-11-18,Miscellaneous,Charity,140.95,Debit Card,November,11,Monday,Q4,False,Charity expense
+2024-11-18,Miscellaneous,Charity,454.39,Debit Card,November,11,Monday,Q4,True,Charity expense
+2024-11-19,Food & Dining,Restaurant,208.19,UPI,November,11,Tuesday,Q4,False,Restaurant expense
+2024-11-20,Miscellaneous,Repairs,380.28,UPI,November,11,Wednesday,Q4,False,Repairs expense
+2024-11-20,Miscellaneous,Other,158.18,Debit Card,November,11,Wednesday,Q4,False,Other expense
+2024-11-21,Travel,Tour Package,3155.49,UPI,November,11,Thursday,Q4,False,Tour Package expense
+2024-11-22,Shopping,Electronics,399.45,Debit Card,November,11,Friday,Q4,False,Electronics expense
+2024-11-22,Shopping,Footwear,188.38,UPI,November,11,Friday,Q4,False,Footwear expense
+2024-11-22,Healthcare,Medicine,438.38,Debit Card,November,11,Friday,Q4,False,Medicine expense
+2024-11-22,Shopping,Accessories,545.99,Credit Card,November,11,Friday,Q4,False,Accessories expense
+2024-11-23,Rent,Monthly Rent,14400.0,Debit Card,November,11,Saturday,Q4,False,Monthly Rent expense
+2024-11-24,Transportation,Train Ticket,123.95,Cash,November,11,Sunday,Q4,False,Train Ticket expense
+2024-11-24,Rent,Monthly Rent,14400.0,Credit Card,November,11,Sunday,Q4,False,Monthly Rent expense
+2024-11-25,Food & Dining,Groceries,188.64,Net Banking,November,11,Monday,Q4,False,Groceries expense
+2024-11-26,Utilities,Water,648.61,Debit Card,November,11,Tuesday,Q4,False,Water expense
+2024-11-26,Food & Dining,Swiggy/Zomato,169.72,Debit Card,November,11,Tuesday,Q4,False,Swiggy/Zomato expense
+2024-11-26,Transportation,Fuel,176.6,UPI,November,11,Tuesday,Q4,False,Fuel expense
+2024-11-27,Healthcare,Medicine,578.38,UPI,November,11,Wednesday,Q4,False,Medicine expense
+2024-11-28,Healthcare,Doctor Visit,831.07,UPI,November,11,Thursday,Q4,False,Doctor Visit expense
+2024-11-28,Travel,Local Travel,5531.73,UPI,November,11,Thursday,Q4,False,Local Travel expense
+2024-11-28,Rent,Monthly Rent,14400.0,Cash,November,11,Thursday,Q4,False,Monthly Rent expense
+2024-11-29,Food & Dining,Groceries,229.75,Cash,November,11,Friday,Q4,False,Groceries expense
+2024-11-29,Transportation,Bus/Metro,117.97,Net Banking,November,11,Friday,Q4,False,Bus/Metro expense
+2024-11-29,Travel,Flight,6662.53,Net Banking,November,11,Friday,Q4,False,Flight expense
+2024-11-30,Travel,Flight,2024.86,Debit Card,November,11,Saturday,Q4,False,Flight expense
+2024-12-01,Education,Books,1554.62,Credit Card,December,12,Sunday,Q4,False,Books expense
+2024-12-01,Food & Dining,Groceries,197.66,Debit Card,December,12,Sunday,Q4,False,Groceries expense
+2024-12-01,Rent,Monthly Rent,15600.0,Net Banking,December,12,Sunday,Q4,False,Monthly Rent expense
+2024-12-01,Transportation,Uber/Ola,122.69,Credit Card,December,12,Sunday,Q4,False,Uber/Ola expense
+2024-12-02,Utilities,Internet,724.97,Debit Card,December,12,Monday,Q4,False,Internet expense
+2024-12-02,Miscellaneous,Charity,443.15,UPI,December,12,Monday,Q4,False,Charity expense
+2024-12-03,Education,Certification,1523.46,Credit Card,December,12,Tuesday,Q4,False,Certification expense
+2024-12-03,Transportation,Uber/Ola,175.66,Cash,December,12,Tuesday,Q4,False,Uber/Ola expense
+2024-12-04,Healthcare,Medicine,899.36,Credit Card,December,12,Wednesday,Q4,False,Medicine expense
+2024-12-06,Healthcare,Supplements,532.05,UPI,December,12,Friday,Q4,False,Supplements expense
+2024-12-07,Rent,Monthly Rent,15600.0,Debit Card,December,12,Saturday,Q4,False,Monthly Rent expense
+2024-12-08,Rent,Monthly Rent,15600.0,UPI,December,12,Sunday,Q4,False,Monthly Rent expense
+2024-12-09,Healthcare,Gym,459.78,Cash,December,12,Monday,Q4,False,Gym expense
+2024-12-09,Education,Coaching,1607.82,Credit Card,December,12,Monday,Q4,False,Coaching expense
+2024-12-09,Travel,Local Travel,7114.6,Credit Card,December,12,Monday,Q4,False,Local Travel expense
+2024-12-09,Entertainment,Gaming,241.76,Credit Card,December,12,Monday,Q4,False,Gaming expense
+2024-12-11,Education,Coaching,1713.25,Credit Card,December,12,Wednesday,Q4,False,Coaching expense
+2024-12-12,Travel,Flight,7795.38,Credit Card,December,12,Thursday,Q4,False,Flight expense
+2024-12-12,Entertainment,Events,233.07,Credit Card,December,12,Thursday,Q4,False,Events expense
+2024-12-13,Miscellaneous,Gift,170.16,Debit Card,December,12,Friday,Q4,False,Gift expense
+2024-12-13,Transportation,Uber/Ola,138.83,UPI,December,12,Friday,Q4,False,Uber/Ola expense
+2024-12-13,Education,Books,1426.93,Debit Card,December,12,Friday,Q4,False,Books expense
+2024-12-14,Education,Coaching,1681.35,UPI,December,12,Saturday,Q4,False,Coaching expense
+2024-12-15,Transportation,Fuel,164.91,UPI,December,12,Sunday,Q4,False,Fuel expense
+2024-12-16,Education,Certification,1705.84,Credit Card,December,12,Monday,Q4,False,Certification expense
+2024-12-17,Utilities,Electricity,821.89,UPI,December,12,Tuesday,Q4,False,Electricity expense
+2024-12-18,Miscellaneous,Personal Care,311.5,UPI,December,12,Wednesday,Q4,False,Personal Care expense
+2024-12-18,Food & Dining,Restaurant,167.34,Credit Card,December,12,Wednesday,Q4,False,Restaurant expense
+2024-12-19,Entertainment,Gaming,235.08,Credit Card,December,12,Thursday,Q4,False,Gaming expense
+2024-12-19,Transportation,Fuel,122.84,UPI,December,12,Thursday,Q4,False,Fuel expense
+2024-12-19,Entertainment,OTT Subscription,316.0,Debit Card,December,12,Thursday,Q4,False,OTT Subscription expense
+2024-12-21,Shopping,Clothing,382.86,UPI,December,12,Saturday,Q4,False,Clothing expense
+2024-12-21,Shopping,Clothing,419.24,UPI,December,12,Saturday,Q4,False,Clothing expense
+2024-12-23,Utilities,Electricity,736.56,UPI,December,12,Monday,Q4,False,Electricity expense
+2024-12-24,Education,Certification,1509.08,Credit Card,December,12,Tuesday,Q4,False,Certification expense
+2024-12-25,Shopping,Accessories,716.42,UPI,December,12,Wednesday,Q4,True,Accessories expense
+2024-12-25,Rent,Monthly Rent,15600.0,Credit Card,December,12,Wednesday,Q4,False,Monthly Rent expense
+2024-12-25,Shopping,Home Decor,419.4,Credit Card,December,12,Wednesday,Q4,False,Home Decor expense
+2024-12-25,Rent,Monthly Rent,15600.0,Cash,December,12,Wednesday,Q4,False,Monthly Rent expense
+2024-12-27,Education,Stationery,1685.75,Net Banking,December,12,Friday,Q4,False,Stationery expense
+2024-12-28,Utilities,Water,905.08,Credit Card,December,12,Saturday,Q4,False,Water expense
+2024-12-29,Rent,Monthly Rent,15600.0,Cash,December,12,Sunday,Q4,False,Monthly Rent expense

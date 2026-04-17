@@ -1,0 +1,11 @@
+Category,Budget,Actual_Avg,Variance,Status,Variance_%
+Education,2500,4711.55,2211.55,⚠️ Over Budget,88.5
+Entertainment,1500,636.03,-863.97,✅ Under Budget,-57.6
+Food & Dining,5000,645.69,-4354.31,✅ Under Budget,-87.1
+Healthcare,1000,1829.04,829.04,⚠️ Over Budget,82.9
+Miscellaneous,1000,737.63,-262.37,✅ Under Budget,-26.2
+Rent,12000,48700.0,36700.0,⚠️ Over Budget,305.8
+Shopping,3000,1452.86,-1547.14,✅ Under Budget,-51.6
+Transportation,2500,576.81,-1923.19,✅ Under Budget,-76.9
+Travel,5000,18388.27,13388.27,⚠️ Over Budget,267.8
+Utilities,2000,2978.09,978.09,⚠️ Over Budget,48.9

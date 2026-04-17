@@ -1,0 +1,117 @@
+============================================================
+   EXPENSE TRACKER APP — ANNUAL REPORT 2024
+============================================================
+
+============================================================
+  📊 OVERVIEW
+============================================================
+  Total Records                       500
+  Date Range                          2024-01-01 → 2024-12-29
+  Total Spend                         ₹967,871.63
+  Monthly Average                     ₹80,655.97
+  Average Transaction                 ₹1,935.74
+  Highest Transaction                 ₹15,600.00
+  Lowest Transaction                  ₹10.00
+
+============================================================
+  🏷️  CATEGORY-WISE SUMMARY
+============================================================
+      Category     Total  Count  Average      Max  % of Total
+          Rent 584400.00     48 12175.00 15600.00        60.4
+        Travel 220659.24     45  4903.54  8826.07        22.8
+     Education  56538.55     44  1284.97  1713.25         5.8
+     Utilities  35737.12     59   605.71   905.08         3.7
+    Healthcare  21948.44     58   378.42   899.36         2.3
+      Shopping  17434.31     54   322.86   747.33         1.8
+ Miscellaneous   8851.61     45   196.70   454.39         0.9
+ Food & Dining   7748.30     51   151.93   229.75         0.8
+ Entertainment   7632.33     44   173.46   316.00         0.8
+Transportation   6921.73     52   133.11   202.60         0.7
+
+============================================================
+  📅 MONTHLY TREND
+============================================================
+ Month_Num     Month     Total  Count  MoM_Change_%
+         1   January  81765.09     36           NaN
+         2  February  42344.64     50         -48.2
+         3     March  91658.14     43         116.5
+         4     April  41443.41     38         -54.8
+         5       May  24416.83     36         -41.1
+         6      June  54464.11     37         123.1
+         7      July  47981.57     41         -11.9
+         8    August 127834.56     41         166.4
+         9 September 113798.61     38         -11.0
+        10   October 110818.82     52          -2.6
+        11  November  98369.51     46         -11.2
+        12  December 132976.34     42          35.2
+
+============================================================
+  📆 QUARTERLY OVERVIEW
+============================================================
+Quarter     Total  Count  Average
+     Q1 215767.87    129  1672.62
+     Q2 120324.35    111  1084.00
+     Q3 289614.74    120  2413.46
+     Q4 342164.67    140  2444.03
+
+============================================================
+  💳 PAYMENT METHODS
+============================================================
+Payment_Method     Total  Count  Average  % of Total
+           UPI 282622.97    167  1692.35        29.2
+   Credit Card 274011.11    143  1916.16        28.3
+    Debit Card 217136.04    115  1888.14        22.4
+          Cash 151485.48     52  2913.18        15.7
+   Net Banking  42616.03     23  1852.87         4.4
+
+============================================================
+  🗓️  WEEKEND vs WEEKDAY
+============================================================
+   Type     Total  Average  Count
+Weekday 676106.36  1883.30    359
+Weekend 291765.27  2069.26    141
+
+============================================================
+  💰 BUDGET vs ACTUAL (Monthly Average)
+============================================================
+      Category  Budget  Actual_Avg  Variance         Status  Variance_%
+     Education    2500     4711.55   2211.55 ⚠️ Over Budget        88.5
+ Entertainment    1500      636.03   -863.97 ✅ Under Budget       -57.6
+ Food & Dining    5000      645.69  -4354.31 ✅ Under Budget       -87.1
+    Healthcare    1000     1829.04    829.04 ⚠️ Over Budget        82.9
+ Miscellaneous    1000      737.63   -262.37 ✅ Under Budget       -26.2
+          Rent   12000    48700.00  36700.00 ⚠️ Over Budget       305.8
+      Shopping    3000     1452.86  -1547.14 ✅ Under Budget       -51.6
+Transportation    2500      576.81  -1923.19 ✅ Under Budget       -76.9
+        Travel    5000    18388.27  13388.27 ⚠️ Over Budget       267.8
+     Utilities    2000     2978.09    978.09 ⚠️ Over Budget        48.9
+
+============================================================
+  🔍 TOP 10 SUBCATEGORIES
+============================================================
+ Category   Subcategory    Amount
+     Rent  Monthly Rent 584400.00
+   Travel        Flight  57270.03
+   Travel  Tour Package  54710.65
+   Travel   Sightseeing  50534.65
+   Travel  Local Travel  34136.08
+   Travel         Hotel  24007.83
+Education Certification  15831.68
+Education      Coaching  12424.05
+Education         Books  11238.28
+Utilities      Internet  10977.74
+
+============================================================
+  💡 KEY INSIGHTS
+============================================================
+  💰 Total annual spend: ₹967,872 | Monthly average: ₹80,656
+  🏆 Highest spending category: Rent (60.4% of total spend)
+  📅 Peak spending month: December
+  💳 Most used payment method: UPI
+  ⚠️  12 transactions flagged as potential overspending
+  🗓️  Weekend avg spend ₹2069 vs Weekday avg ₹1883 (higher on weekends)
+  🚨 Categories over monthly budget: Education, Healthcare, Rent, Travel, Utilities
+
+============================================================
+  Report generated by Expense Tracker App
+============================================================
