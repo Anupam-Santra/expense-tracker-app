@@ -256,52 +256,44 @@ After running `python main.py`, the following are generated:
 | `budget_analysis.csv` | Budget vs actual comparison |
 
 ---
----
-# Expense Analytics Dashboard
+## 📊 Project Visualizations
 
-This repository contains an automated financial tracking system that generates visual insights from transaction data.
-
-## 📊 Visual Gallery
-
-### Primary Analytics
-| Category-wise Spend | Monthly Trends |
+### 📈 Expense Trends & Analytics
+| Category-wise Spend | Transaction Volume |
 |:---:|:---:|
-| ![Category Pie](outputs/01_category_pie.png) | ![Monthly Trend](outputs/03_monthly_trend.png) |
-| *01: Donut chart of spend* | *03: Transaction volume* |
+| ![Category Pie](images/01_category_pie.png) | ![Monthly Trend](images/03_monthly_trend.png) |
+| *01: Donut chart of spend* | *03: Monthly volume trend* |
 
-### Comparative Analysis
 | Budget vs Actual | Spending Heatmap |
 |:---:|:---:|
-| ![Budget vs Actual](outputs/07_budget_vs_actual.png) | ![Heatmap](outputs/08_heatmap.png) |
-| *07: Budget comparison* | *08: Month × Category density* |
+| ![Budget vs Actual](images/07_budget_vs_actual.png) | ![Heatmap](images/08_heatmap.png) |
+| *07: Budget comparison* | *08: Category heatmap* |
 
-### Temporal & Method Breakdowns
-| Weekday Patterns | Payment Methods |
+### 🔍 Detailed Breakdowns
+| Payment Methods | Weekday Spending |
 |:---:|:---:|
-| ![Weekday Spending](outputs/06_weekday_spending.png) | ![Payment Methods](outputs/05_payment_methods.png) |
-| *06: Average spend by day* | *05: Bar + pie for modes* |
+| ![Payment Methods](images/05_payment_methods.png) | ![Weekday Spending](images/06_weekday_spending.png) |
+| *05: Payment mode distribution* | *06: Average spend by day* |
 
 ---
 
-## 🖥️ System Outputs
+## 🖥️ Dashboards & Reports
 
-### Full Dashboard Summary
-The image below represents the consolidated `10_dashboard.png` output, providing a high-level view of all metrics.
+### Primary Summary Dashboard
+![Complete Summary Dashboard](images/10_dashboard.png)
 
-![Complete Summary Dashboard](outputs/10_dashboard.png)
-
-### Web & Export Formats
-| Local Website View | PDF/Image Expense Report |
+### Interface & Exported Files
+| Web Dashboard (Local) | Expense Report File |
 |:---:|:---:|
-| ![Dashboard Web](outputs/dashboard_web.png) | ![Expense Report](outputs/expense_report.png) |
-| *Live browser interface* | *Final exported report* |
+| ![Dashboard Web](images/dashboard_web.png) | ![Expense Report](images/expense_report.png) |
+| *Local website interface* | *Generated report preview* |
 
 ---
 
-## 📂 Other Visuals
-* **Category Bars:** `outputs/02_category_bar.png`
-* **Quarterly Comparison:** `outputs/04_quarterly.png`
-* **Top Subcategories:** `outputs/09_top_subcategories.png`
+## 📂 Additional Charts
+* **Bar Chart by Category:** [View Image](images/02_category_bar.png)
+* **Quarterly Comparison:** [View Image](images/04_quarterly.png)
+* **Top 12 Subcategories:** [View Image](images/09_top_subcategories.png)
 ---
 
 ## Key Insights
